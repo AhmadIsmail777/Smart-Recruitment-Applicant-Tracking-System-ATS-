@@ -1,0 +1,4 @@
+export const currentStatus = { project: 'Portfolio evolution', progress: 65, stack: ['React', 'UX', 'Frontend'], learning: 'AI-powered application design', next: 'Ship a system that keeps growing.' };
+export const certifications = ['Data Structures and Algorithms in Java', 'Introduction to Generative AI', 'Introduction to Large Language Models'];
+export const achievements = [{name:'PROBLEM_SOLVER', unlocked:true, text:'Building foundations in DSA with Java.'},{name:'AI_BUILDER', unlocked:true, text:'Exploring generative AI and LLMs.'},{name:'FIRST_DEPLOYMENT', unlocked:false},{name:'OPEN_SOURCE', unlocked:false}];
+export const versions = [{version:'v1.0',text:'Started building'},{version:'v1.1',text:'Learned React'},{version:'v1.2',text:'Built REST APIs'},{version:'v1.3',text:'Started AI development'},{version:'v2.0',text:'Coming soon'}];
